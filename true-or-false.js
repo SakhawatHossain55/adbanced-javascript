@@ -7,7 +7,7 @@
 // truthy value
 // '0'
 // ' '
-let name = NaN;
+let name = '0';
 console.log(name);
 if(name){
     console.log('Condition is true')
